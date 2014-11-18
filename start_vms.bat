@@ -1,0 +1,1 @@
+wscript vm.run.vbs
